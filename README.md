@@ -39,14 +39,14 @@ Our analysis leads to the following conclusions:
 ## Graphs and Visualizations Supporting Findings
 
 The following visualizations are included to support our findings:
-- **Age Distribution**: ![Age Histogram](https://github.com/vedmukul/us_insurance/blob/main/age_histogram.png)
-- **BMI vs. Charges (colored by smoker status)**: ![BMI vs. Charges Scatter Plot](https://github.com/vedmukul/us_insurance/blob/main/bmi_vs_charges_scatter.png)
+- **Age Distribution**: ![Age Histogram](https://github.com/vedmukul/us_insurance/blob/main/Graphs/age_histogram.png)
+- **BMI vs. Charges (colored by smoker status)**: ![BMI vs. Charges Scatter Plot](https://github.com/vedmukul/us_insurance/blob/main/Graphs/bmi_vs_charges_scatter.png)
 - **Total Insurance Charges by Region:** This graph illustrates how total insurance charges vary across different regions, highlighting regional disparities in insurance costs.
-  ![Total Insurance Charges by Region](https://github.com/vedmukul/us_insurance/blob/main/avg_charges_by_region.png)
-- **Average Insurance Charges by Gender and Smoker Status:** This graph compares insurance charges between genders, segmented further by smoker status, to show gender-specific trends in insurance costs.![Gender Charges vs Smokers Status](https://github.com/vedmukul/us_insurance/blob/main/avg_charges_by_gender_smoker.png)
+  ![Total Insurance Charges by Region](https://github.com/vedmukul/us_insurance/blob/main/Graphs/avg_charges_by_region.png)
+- **Average Insurance Charges by Gender and Smoker Status:** This graph compares insurance charges between genders, segmented further by smoker status, to show gender-specific trends in insurance costs.![Gender Charges vs Smokers Status](https://github.com/vedmukul/us_insurance/blob/main/Graphs/avg_charges_by_gender_smoker.png)
 - **Average Insurance Charges by Age Group:** This graph displays insurance charges across different age groups, providing insights into how insurance costs correlate with age.
-  ![Average Insurance Charges by Age Group](https://github.com/vedmukul/us_insurance/blob/main/avg_charges_by_bmi_smoker.png)
-- **Insurance Charges by BMI and Smoking Status:** This scatter plot explores the relationship between BMI and insurance charges, with a focus on the impact of smoking status.![Insurance Charges by BMI and Smoking Status](https://github.com/vedmukul/us_insurance/blob/main/bmi_vs_charges_scatter.png)
+  ![Average Insurance Charges by Age Group](https://github.com/vedmukul/us_insurance/blob/main/Graphs/avg_charges_by_bmi_smoker.png)
+- **Insurance Charges by BMI and Smoking Status:** This scatter plot explores the relationship between BMI and insurance charges, with a focus on the impact of smoking status.![Insurance Charges by BMI and Smoking Status](https://github.com/vedmukul/us_insurance/blob/main/Graphs/bmi_vs_charges_scatter.png)
 -
 These insights provide a comprehensive understanding of the factors influencing medical insurance costs and can assist stakeholders in informed decision-making.
 
